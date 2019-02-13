@@ -9,7 +9,9 @@
     "test:unit": "vue-cli-service test:unit"
   },
   "dependencies": {
+    "feather-icons": "^4.17.0",
     "vue": "^2.5.22",
+    "vue-feather": "^1.0.0",
     "vue-router": "^3.0.1",
     "vuex": "^3.0.1"
   },
